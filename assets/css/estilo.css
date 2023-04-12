@@ -143,4 +143,9 @@ h1{
         text-transform: uppercase;
         font-weight: bold;
         border-radius:3px;
+        cursor: pointer;
+    }
+
+    #direita button:hover{
+        background-color:#ff861caf;
     }
